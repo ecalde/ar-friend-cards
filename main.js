@@ -524,7 +524,6 @@ async function main() {
       }
 
       // update UI for this specific card
-      $("igBtn").href = chosen.instagramUrl || "https://instagram.com/";
       showVideoButtonIfNeeded(layers);
 
       setStatus(`Found ✅ ${chosen.id || `target_${i}`}`);
@@ -546,7 +545,6 @@ async function main() {
   }
 
   // Initial UI state
-  $("igBtn").href = targets[0]?.instagramUrl || "https://instagram.com/";
   showVideoButtonIfNeeded(clampLayers(targets[0]?.layers || []));
   setStatus(`Ready. Tap “Start AR”, then point at any card.`);
   showScene(sceneEl, false);

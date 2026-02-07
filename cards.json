@@ -2,7 +2,6 @@
     "targets": [
         {
             "id": "card_001",
-            "instagramUrl": "https://www.instagram.com/edwinspira/",
             "layers": [
                 {
                     "type": "image",
@@ -22,7 +21,6 @@
         },
         {
             "id": "card_002",
-            "instagramUrl": "https://www.instagram.com/edwinspira/",
             "layers": [
                 {
                     "type": "image",
