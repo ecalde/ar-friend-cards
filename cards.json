@@ -13,28 +13,35 @@
                 {
                     "type": "image",
                     "src": "assets/overlays/batman_02.png",
-                    "pos": [0.0, 0.03, 0.15],
+                    "pos": [0.0, 0.03, 0.12],
                     "scale": [0.38, 0.22, 1.0],
                     "anim": { "float": 0.006 }
                 },
                 {
                     "type": "image",
                     "src": "assets/overlays/batman_03.png",
-                    "pos": [0.0, 0.03, 0.2],
+                    "pos": [0.0, 0.03, 0.14],
                     "scale": [0.38, 0.22, 1.0],
                     "anim": { "float": 0.006 }
                 },
                 {
                     "type": "image",
                     "src": "assets/overlays/batman_04.png",
-                    "pos": [0.0, 0.03, 0.25],
+                    "pos": [0.0, 0.03, 0.16],
+                    "scale": [0.38, 0.22, 1.0],
+                    "anim": { "float": 0.006 }
+                },
+                {
+                    "type": "image",
+                    "src": "assets/overlays/batman_05.png",
+                    "pos": [0.0, 0.03, 0.18],
                     "scale": [0.38, 0.22, 1.0],
                     "anim": { "float": 0.006 }
                 },
                 {
                     "type": "image",
                     "src": "assets/overlays/batman_06.png",
-                    "pos": [0.0, 0.03, 0.3],
+                    "pos": [0.0, 0.03, 0.2],
                     "scale": [0.38, 0.22, 1.0],
                     "anim": { "float": 0.006 }
                 }
