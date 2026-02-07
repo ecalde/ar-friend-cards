@@ -26,15 +26,8 @@
                 },
                 {
                     "type": "image",
-                    "src": "assets/overlays/batman_04.png",
-                    "pos": [0.0, 0.03, 0.25],
-                    "scale": [0.38, 0.22, 1.0],
-                    "anim": { "float": 0.006 }
-                },
-                {
-                    "type": "image",
                     "src": "assets/overlays/batman_06.png",
-                    "pos": [0.0, 0.03, 0.3],
+                    "pos": [0.0, 0.03, 0.25],
                     "scale": [0.38, 0.22, 1.0],
                     "anim": { "float": 0.006 }
                 }
