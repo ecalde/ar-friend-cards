@@ -1,5 +1,5 @@
 const DEFAULT_CARD_ID = "card_001";
-const MAX_LAYERS = 10;
+const MAX_LAYERS = 10; 
 const spawnedEntities = [];
 
 function $(id) {
@@ -546,7 +546,7 @@ async function main() {
 
   // Initial UI state
   showVideoButtonIfNeeded(clampLayers(targets[0]?.layers || []));
-  setStatus(`Ready. Tap “Start AR”, then point at any card.`);
+  setStatus(`Ready. Tap “Start AR”, then point at the illustration.`);
   showScene(sceneEl, false);
   showSplash(true);
 
