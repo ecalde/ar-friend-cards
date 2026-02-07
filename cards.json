@@ -5,15 +5,43 @@
             "layers": [
                 {
                     "type": "image",
-                    "src": "assets/overlays/dog.png",
-                    "pos": [0.0, 0.03, 0.12],
+                    "src": "assets/overlays/batman_01.png",
+                    "pos": [0.0, 0.03, 0.1],
                     "scale": [0.38, 0.22, 1.0],
                     "anim": { "float": 0.006 }
                 },
                 {
                     "type": "image",
-                    "src": "assets/overlays/TestPNG.png",
-                    "pos": [0.0, 0.03, 0.52],
+                    "src": "assets/overlays/batman_02.png",
+                    "pos": [0.0, 0.03, 0.15],
+                    "scale": [0.38, 0.22, 1.0],
+                    "anim": { "float": 0.006 }
+                },
+                {
+                    "type": "image",
+                    "src": "assets/overlays/batman_03.png",
+                    "pos": [0.0, 0.03, 0.2],
+                    "scale": [0.38, 0.22, 1.0],
+                    "anim": { "float": 0.006 }
+                },
+                {
+                    "type": "image",
+                    "src": "assets/overlays/batman_04.png",
+                    "pos": [0.0, 0.03, 0.25],
+                    "scale": [0.38, 0.22, 1.0],
+                    "anim": { "float": 0.006 }
+                },
+                {
+                    "type": "image",
+                    "src": "assets/overlays/batman_05.png",
+                    "pos": [0.0, 0.03, 0.3],
+                    "scale": [0.38, 0.22, 1.0],
+                    "anim": { "float": 0.006 }
+                },
+                {
+                    "type": "image",
+                    "src": "assets/overlays/batman_06.png",
+                    "pos": [0.0, 0.03, 0.35],
                     "scale": [0.38, 0.22, 1.0],
                     "anim": { "float": 0.006 }
                 }
