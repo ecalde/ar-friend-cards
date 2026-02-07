@@ -37,6 +37,13 @@
                     "pos": [0.0, 0.03, 0.22],
                     "scale": [0.76, 0.44, 2.0],
                     "anim": { "float": 0.006 }
+                },
+                {
+                    "type": "image",
+                    "src": "assets/overlays/batman_06.png",
+                    "pos": [0.0, 0.03, 0.25],
+                    "scale": [0.76, 0.44, 2.0],
+                    "anim": { "float": 0.006 }
                 }
             ]
         },

@@ -1,5 +1,5 @@
 const DEFAULT_CARD_ID = "card_001";
-const MAX_LAYERS = 5;
+const MAX_LAYERS = 10;
 const spawnedEntities = [];
 
 function $(id) {
