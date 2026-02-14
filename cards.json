@@ -13,42 +13,42 @@
                 {
                     "type": "image",
                     "src": "assets/overlays/batman_02.png",
-                    "pos": [0.0, 0.03, 0.13],
+                    "pos": [0.0, 0.03, 0.14],
                     "scale": [1.52, 0.88, 4.0],
                     "anim": { "float": 0.006 }
                 },
                 {
                     "type": "image",
                     "src": "assets/overlays/batman_03.png",
-                    "pos": [0.0, 0.03, 0.16],
+                    "pos": [0.0, 0.03, 0.18],
                     "scale": [1.52, 0.88, 4.0],
                     "anim": { "float": 0.006 }
                 },
                 {
                     "type": "image",
                     "src": "assets/overlays/batman_04.png",
-                    "pos": [0.0, 0.03, 0.19],
-                    "scale": [1.52, 0.88, 4.0],
-                    "anim": { "float": 0.006 }
-                },
-                {
-                    "type": "image",
-                    "src": "assets/overlays/batman_05.png",
                     "pos": [0.0, 0.03, 0.22],
                     "scale": [1.52, 0.88, 4.0],
                     "anim": { "float": 0.006 }
                 },
                 {
                     "type": "image",
+                    "src": "assets/overlays/batman_05.png",
+                    "pos": [0.0, 0.03, 0.26],
+                    "scale": [1.52, 0.88, 4.0],
+                    "anim": { "float": 0.006 }
+                },
+                {
+                    "type": "image",
                     "src": "assets/overlays/batman_06.png",
-                    "pos": [0.0, 0.03, 0.25],
+                    "pos": [0.0, 0.03, 0.30],
                     "scale": [1.52, 0.88, 4.0],
                     "anim": { "float": 0.006 }
                 },
                 {
                     "type": "image",
                     "src": "assets/overlays/batman_07.png",
-                    "pos": [0.0, 0.03, 0.28],
+                    "pos": [0.0, 0.03, 0.34],
                     "scale": [1.52, 0.88, 4.0],
                     "anim": { "float": 0.006 }
                 }
